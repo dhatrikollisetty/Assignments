@@ -1,0 +1,60 @@
+                       Solid Principles
+Solid is an acronym for five design principles to make software understandable, flexible, maintainable.
+SOLID stands for:
+S-single Responsibility Principle
+O-Open-Close Principle 
+L-Liskov Substitution Principle
+I-Interface Segregation Principle
+D-Dependency Inversion Principle
+Single Responsibility Principle: a class should only have one, and only one ,reason to be changed.
+There should never be two functionalities in one class.
+Open-Close Principle: Software entities should be open for execution but close for modifications.
+Liskov Substitution Principle: Classes should be able to substitute base classes without changing the code.
+Interface Segregation Principle: An interface should have minimum set of methods necessary for the functionality, should be limit to one functionality.
+Dependency Inversion Principle:
+                                              OOPS Concept
+The Object-Oriented Programming (OOP) is constructed over four major principles:
+1.Encapsulation
+2.Abstraction
+3.Polymorphism
+4.Inheritence
+1.Encapsulation: Wrapping up of data into a single unit.
+             Ex: Geometry Box, Organization
+2.Abstraction: hiding unnecessary details and showing only essential information to user.
+             Ex: mobile, websites
+
+3.Polymorphism:  poly means MANY, morphism means FORMS
+The ability to exist in many forms.
+            Ex:” +” sign in programming, gold 
+4.Inheritence: A class can inherit properties from existing class.
+Types of inheritance:
+1.single inheritance
+2.multiple inheritance
+3.hierarchical inheritance
+4.hybrid inheritance
+It has “is-a relationship”
+Java doesn’t support multi-level inheritance
+    Ex: Franchises , Cultural Heritage 
+Association: one object instance cause another to perform actions on behalf it.
+1.one to one: one object is associated with another object
+    Ex: Aadhar, Bank account ,Pan card,Passport
+2.one-many: one object is associated with many objects.
+    Ex: enrolling courses (single student can enroll many courses)  
+3.many-one: many objects are associated with one object.
+  Ex: E-commers (many products in single cart)
+4.many-many: many objects can associate with many objects.
+  Ex: elections
+Aggregation: both entries can survive individually which means ending one entity will not affect the other entity.
+It has “has-a relationship”
+        Ex: library, building(renovation)
+Composition: composition is two entities highly dependent on each other.
+  Ex: car engine  	
+
+
+
+
+
+ 
+
+
+
